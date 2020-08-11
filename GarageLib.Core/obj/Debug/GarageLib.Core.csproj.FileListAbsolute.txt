@@ -1,0 +1,6 @@
+C:\Users\Sunna\Desktop\TpGarage2\GarageLib.Core\bin\Debug\GarageLib.Core.dll
+C:\Users\Sunna\Desktop\TpGarage2\GarageLib.Core\bin\Debug\GarageLib.Core.pdb
+C:\Users\Sunna\Desktop\TpGarage2\GarageLib.Core\obj\Debug\GarageLib.Core.csprojAssemblyReference.cache
+C:\Users\Sunna\Desktop\TpGarage2\GarageLib.Core\obj\Debug\GarageLib.Core.dll
+C:\Users\Sunna\Desktop\TpGarage2\GarageLib.Core\obj\Debug\GarageLib.Core.pdb
+C:\Users\Sunna\Desktop\TpGarage2\GarageLib.Core\obj\Debug\GarageLib.Core.csproj.CoreCompileInputs.cache

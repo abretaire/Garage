@@ -1,0 +1,16 @@
+C:\Users\Sunna\Desktop\TpGarage\bin\Debug\TpGarage.exe.config
+C:\Users\Sunna\Desktop\TpGarage\bin\Debug\TpGarage.exe
+C:\Users\Sunna\Desktop\TpGarage\bin\Debug\TpGarage.pdb
+C:\Users\Sunna\Desktop\TpGarage\obj\Debug\TpGarage.csprojAssemblyReference.cache
+C:\Users\Sunna\Desktop\TpGarage\obj\Debug\TpGarage.exe
+C:\Users\Sunna\Desktop\TpGarage\obj\Debug\TpGarage.pdb
+C:\Users\Sunna\Desktop\TpGarage2\bin\Debug\TpGarage.exe.config
+C:\Users\Sunna\Desktop\TpGarage2\bin\Debug\TpGarage.exe
+C:\Users\Sunna\Desktop\TpGarage2\bin\Debug\TpGarage.pdb
+C:\Users\Sunna\Desktop\TpGarage2\obj\Debug\TpGarage.csprojAssemblyReference.cache
+C:\Users\Sunna\Desktop\TpGarage2\obj\Debug\TpGarage.exe
+C:\Users\Sunna\Desktop\TpGarage2\obj\Debug\TpGarage.pdb
+C:\Users\Sunna\Desktop\TpGarage2\bin\Debug\GarageLib.Core.dll
+C:\Users\Sunna\Desktop\TpGarage2\bin\Debug\GarageLib.Core.pdb
+C:\Users\Sunna\Desktop\TpGarage2\obj\Debug\TpGarage.csproj.CopyComplete
+C:\Users\Sunna\Desktop\TpGarage2\obj\Debug\TpGarage.csproj.CoreCompileInputs.cache
